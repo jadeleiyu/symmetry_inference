@@ -1,0 +1,401 @@
+raw_id,pred_id,pred,sentence,rating_type,verb symmetry score,trans,trans_mod,v_tense,v_act,modal,neg,is_root,direction,sing_sub,sing_obj,conj_sub,conj_obj,rcp_phrase,sub_more_freq,ani_match,num_np,ani_sub,num_clauses
+1,1,marry,"He married Kristie and has three children, Afiya, Eden and Titus. ",continuous,4,1,0,0,0,0,0,1,1,1,0,0,0,0,1,1,5,1,1
+2,1,marry,Hannah Tamaki and Bishop Brian have been married for over 26 years.,continuous,4,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,2,1,1
+3,1,marry,Don Hornig married chemist Lilli Hornig.,continuous,4,1,0,0,0,0,0,1,1,1,1,0,0,0,1,1,2,1,1
+4,1,marry,Angelina and Brad were married several years ago and had some issues.,continuous,4,0,0,1,0,0,0,0,1,0,0,1,0,0,0,1,3,1,1
+5,1,marry,"Mrs. H., our teacher, who is beautiful and blond, is married to a black man from Africa (she shows us pictures of her wedding the first day).",continuous,4,0,1,1,0,0,0,0,1,1,1,0,0,0,0,1,5,1,3
+6,1,marry,Croats and Serbs should marry each other.,continuous,4,1,0,1,0,0,0,1,0,0,0,1,0,1,0,1,3,1,1
+7,1,marry,Black lesbians can marry white lesbians.,continuous,4,1,0,1,0,1,0,1,1,0,0,0,0,0,0,1,2,1,1
+8,1,marry,Delany and the poet Marilyn Hacker were married to each other for several years and have a daughter.,continuous,4,1,0,1,0,0,0,0,0,1,1,1,0,1,0,0,5,1,1
+9,1,marry,Outmoded metrics married modern data sources.,continuous,4,1,0,0,0,0,0,1,1,0,0,0,0,0,0,1,2,0,1
+10,1,marry,Prince William and Kate Middleton married each other.,continuous,4,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,3,1,1
+11,2,match,"Screening methods will match specific drug treatments with patients with brain, ovarian and colorectal cancer based on molecular and genetic response to the therapy and avoiding trial and error.",continuous,4.33,0,1,1,0,0,0,1,1,0,0,0,0,0,1,1,8,0,2
+12,2,match,"If the laboratory results and the patient's clinical presentation do not match, a decision to transfuse may occur based on incorrect results or analytical errors.",continuous,4.33,0,0,1,0,0,1,1,0,0,1,1,0,0,1,1,7,0,4
+13,2,match,Your file might match another author's file name.,continuous,4.33,1,0,1,0,1,0,1,1,1,1,0,0,0,0,1,2,0,1
+14,2,match,"Rogen and Heigl were evenly matched as comedians, though Heigl may have edged him out in the end with her charm.",continuous,4.33,0,0,0,0,0,0,1,1,0,1,1,0,0,0,1,6,1,2
+15,2,match,"ASP Staffing matches quality companies looking for qualified professional candidates in the accounting, sales, and insurance industries with the best candidates.",continuous,4.33,1,0,1,0,0,0,1,1,1,0,0,0,0,0,1,7,0,2
+16,2,match,Felon names and their dates of birth matched.,continuous,4.33,0,0,0,0,0,0,1,0,0,0,1,0,0,1,1,2,0,1
+17,2,match,IFC can match those seeking funds with those looking to invest funds into worthy projects.  ,continuous,4.33,1,0,1,0,1,0,1,1,0,0,0,0,0,0,0,8,1,3
+18,2,match,The file contents and your results do not match. ,continuous,4.33,0,0,1,0,0,1,1,0,0,0,1,0,0,0,1,2,0,1
+19,2,match,A bloody glove matched the one at the murder scene in OJ's house.,continuous,4.33,1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,4,0,1
+20,2,match,The pair with the best correlation matched in significance.,continuous,4.33,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,2,0,2
+21,3,resemble,"Village Way does actually resemble a small village, like those small quaint ones that you picture in a rural European country. ",continuous,3.17,1,0,1,1,0,0,1,1,0,1,0,0,0,0,1,7,0,2
+22,3,resemble,The curves of LBP and NP resembled each other,continuous,3.17,1,0,0,1,0,0,1,0,0,0,1,0,1,0,1,2,0,1
+23,3,resemble,These planets would somehow resemble the planets in our own solar system. ,continuous,3.17,1,0,1,1,0,0,1,1,0,0,0,0,0,0,1,3,0,1
+24,3,resemble,Mars and Earth resembled each other,continuous,3.17,1,0,0,1,0,0,1,0,0,0,1,0,1,0,0,3,0,1
+25,3,resemble,The dots over the I's can resemble tone marks.,continuous,3.17,1,0,1,1,1,0,1,1,0,0,0,0,0,0,1,2,0,1
+26,3,resemble,The Ps and Qs resembled each other,continuous,3.17,1,0,0,1,0,0,1,0,0,0,1,0,1,0,1,3,0,1
+27,3,resemble,His reflection does not resemble him. ,continuous,3.17,1,0,1,1,0,1,1,1,1,1,0,0,0,0,1,2,0,1
+28,3,resemble,The woman and the real Saint Nicholas resembled each other,continuous,3.17,1,0,0,1,0,0,1,0,0,0,1,0,1,0,1,3,0,1
+29,3,resemble,The ten-year-olds resemble catatonic ghosts plugged into iPods.,continuous,3.17,1,0,1,1,0,0,1,1,0,0,0,0,0,1,0,2,0,2
+30,3,resemble,Experiment II and Experiment III resembled each other.,continuous,3.17,1,0,0,1,0,0,1,0,0,0,1,0,1,0,1,3,0,1
+31,4,meet,None of the Gorlans would meet their eyes.,continuous,4.67,1,0,1,1,0,0,1,1,1,0,0,0,0,0,0,2,1,1
+32,4,meet,"The next day, my ex and I met.",continuous,4.67,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,2,1,1
+33,4,meet,Students must meet with the director of the minor in sustainability.,continuous,4.67,0,1,1,1,0,0,1,1,0,0,0,0,0,1,1,3,1,1
+34,4,meet,The priest and mother met for the 5:30 pm Vigil Mass at ST. ,continuous,4.67,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,4,1,1
+35,4,meet,This imagery will best meet your Web needs.,continuous,4.67,1,0,1,1,0,0,1,1,1,0,0,0,0,0,1,2,0,1
+36,4,meet,Women and men can meet in a building at the corner of the Railway Station carpark on Wednesdays at 7.30 pm. ,continuous,4.67,0,0,1,0,1,0,1,0,0,0,1,0,0,0,1,7,1,1
+37,4,meet,A very large organisation met me for some business.,continuous,4.67,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,3,1,1
+38,4,meet,The girls and the supervisor meet on the site of the future science wing.,continuous,4.67,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,4,1,1
+39,4,meet,She met her mother but her mother failed to recognize her.,continuous,4.67,1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,6,1,2
+40,4,meet,"Here, ethical and global business challenges meet each other.",continuous,4.67,1,0,1,1,0,0,1,0,0,0,1,0,1,0,1,2,0,1
+41,5,argue,Marsilius of Padua and Lorenzo Valla argued against the priest.,continuous,3.67,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,3,1,1
+42,5,argue,Dad and Mom argued and the next day sucked.,continuous,3.67,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,2,1,1
+43,5,argue,"The king argued with the queen, scaring the royal advisors.",continuous,3.67,0,1,0,0,0,0,1,1,1,0,0,0,0,1,1,3,1,1
+44,5,argue,USSR and USA argue with each other,continuous,3.67,0,1,1,0,0,0,1,0,0,0,1,0,1,0,0,3,1,1
+45,5,argue,He argued with the scientific officer.,continuous,3.67,0,1,0,0,0,0,1,1,1,0,0,0,0,1,1,2,1,1
+46,5,argue,The TV show host and Henry argue with each other,continuous,3.67,0,1,1,0,0,0,1,0,0,0,1,0,1,0,1,3,1,1
+47,5,argue,I can't argue with the referee out of courtesy.,continuous,3.67,0,1,1,0,0,1,1,1,1,0,0,0,0,1,1,3,1,1
+48,5,argue,Veneziano and Romano argued all night.,continuous,3.67,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,2,1,1
+49,5,argue,I argued with my lawyer as everyone watched.,continuous,3.67,0,1,0,0,0,0,1,1,1,0,0,0,0,1,1,3,1,2
+50,5,argue,"Out of all the signs, Leo and Pisces argue the most.",continuous,3.67,0,0,1,0,0,0,1,0,0,0,1,0,0,1,1,2,1,1
+51,6,differ,Many creative people differ from the more code-based web developers.,continuous,3,0,1,1,1,0,0,1,1,0,0,0,0,0,1,1,2,1,1
+52,6,differ,The expectations and the outcome may differ depending on the target group.,continuous,3,0,0,1,1,1,0,1,0,0,0,1,0,0,1,1,3,0,1
+53,6,differ,The hypothesis differed from the outcome.,continuous,3,0,1,0,1,0,0,1,1,1,1,0,0,0,0,1,2,0,2
+54,6,differ,"The calories you are going to need and the calories you will actually have differ on your way of living, age and present bodyweight.",continuous,3,0,0,1,1,0,0,1,0,0,0,1,0,0,0,1,7,0,3
+55,6,differ,The Atkins diet may differ from the diet you are accustomed to at home. ,continuous,3,0,1,1,1,1,0,1,1,1,0,0,0,0,0,1,5,0,2
+56,6,differ,HRQOL median scores and standard deviations did not differ significantly.,continuous,3,0,0,1,1,0,1,1,0,0,0,1,0,0,1,1,2,0,1
+57,6,differ,Your explanation may differ from the definition.,continuous,3,0,1,1,1,1,0,1,1,1,0,0,0,0,0,1,2,0,1
+58,6,differ,"Because issues and needs often differ regionally across North America, membership begins at a local level.",continuous,3,0,0,1,1,0,0,1,0,0,0,1,0,0,0,1,6,0,2
+59,6,differ,Biofilms that form on solid phases at contaminated subsurface sites may differ significantly in form and function from those found in other environments.,continuous,3,0,1,1,1,1,0,1,1,0,0,0,0,0,0,1,5,0,2
+60,6,differ,BMI and glycemic index did not differ by dietary pattern and averaged 23.7 Í—‘_Í_‘„Í_‘ï_Í—‘_Í_‘_Í_‘ïÍ_‘± 4.7 for all women combined.,continuous,3,0,0,1,1,0,1,1,0,0,0,1,0,0,0,1,6,1,2
+61,7,combine,People should combine their talent with a focus on delivering results.,continuous,4.67,0,1,1,0,0,0,1,1,0,1,0,0,0,1,1,3,0,1
+62,7,combine,The documents released by WikiLeaks and the recent analysis by the U.S. intelligence community combined to make it clear that the stated objectives of the U.S. are unachievable.,continuous,4.67,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1,5,0,5
+63,7,combine,I combine the chipotle with the mayonnaise and honey.,continuous,4.67,0,1,1,0,0,0,1,1,1,1,0,0,0,0,1,3,0,1
+64,7,combine,The school combined learning and Black Eyed Peas to encourage children to be active.,continuous,4.67,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,3,0,1
+65,7,combine,We optionally combine RTB API with our DSP white label for rapid go-to-market.,continuous,4.67,0,1,1,0,0,0,1,1,0,0,0,0,0,0,1,5,1,1
+66,7,combine,Entrepreneurs combine strength and street smarts.,continuous,4.67,1,0,1,0,0,0,1,1,0,0,0,0,0,0,1,2,0,1
+67,7,combine,"For my blog, I am going to combine the criteria of each organization with my own knowledge.",continuous,4.67,0,0,1,0,0,0,1,1,1,1,0,0,0,1,1,6,1,1
+68,7,combine,"Vegetarians must combine the ""incomplete"" proteins and carbohydrates found in grains and legumes in order to attain a healthy diet.",continuous,4.67,1,0,1,0,0,0,1,1,0,0,0,1,0,0,1,10,0,3
+69,7,combine,I combined remaining hair with previous handful of hair to make a single ponytail.,continuous,4.67,1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,4,0,1
+70,7,combine,His works combine a visceral sense of space and motion.,continuous,4.67,1,0,1,0,0,0,1,1,0,1,0,0,0,0,1,3,0,1
+71,8,compare,We compare several methods for active learning techniques with more traditional methods.,continuous,4.5,0,1,1,0,0,0,1,1,0,0,0,0,0,0,1,4,0,1
+72,8,compare,The AED study will also compare targeted and universal screening approaches. ,continuous,4.5,1,0,1,0,0,0,1,1,1,0,0,0,0,1,1,4,0,2
+73,8,compare,One can compare the risque content to the ''censorship'' function of the dream.,continuous,4.5,1,0,1,0,1,0,1,1,1,1,0,0,0,0,1,4,0,1
+74,8,compare,Users can compare different days and months so sleep quality is quantified.,continuous,4.5,1,0,1,0,1,0,1,1,0,0,0,1,0,0,1,4,0,2
+75,8,compare,"In addition, BHM and EFM application will compare measured data to the improved predicted metrics, which will enable detection of building deviations.",continuous,4.5,1,0,1,0,0,0,1,1,0,0,1,0,0,0,1,9,0,2
+76,8,compare,They compare the features and price of the products.,continuous,4.5,1,0,1,0,0,0,1,1,0,0,0,1,0,0,1,4,0,1
+77,8,compare,Countries can compare themselves to peers on the 25 PHC Vital Signs indicators.,continuous,4.5,1,0,1,0,1,0,1,1,0,0,0,0,0,0,1,4,1,1
+78,8,compare,We compared Googlemaps and OpenStreetMaps implementations.,continuous,4.5,1,0,0,0,0,0,1,1,0,0,0,1,0,0,1,3,1,1
+79,8,compare,You can also compare your beauty with your boyfriend's or girlfriend's. ,continuous,4.5,0,1,1,0,1,0,1,1,1,1,0,0,0,0,1,3,0,1
+80,8,compare,He compared Python and Java.,continuous,4.5,1,0,0,0,0,0,1,1,1,0,0,1,0,0,1,3,1,1
+81,9,love,Siyabonga will love it but it won't love him.,continuous,2.67,1,0,1,1,0,0,1,1,1,1,0,0,0,0,0,4,1,2
+82,9,love,The students and their mentors love each other.,continuous,2.67,1,0,1,1,0,0,1,0,0,0,1,0,1,0,1,3,1,1
+83,9,love,"People love the cute puppy, who never acts out.",continuous,2.67,1,0,1,1,0,0,1,1,0,0,0,0,0,1,0,3,1,2
+84,9,love,How can Adam and Eve love as Christ loved?,continuous,2.67,0,0,1,1,1,0,1,0,0,0,1,0,0,0,1,3,1,2
+85,9,love,How can you love him when he possibly loves someone else?,continuous,2.67,1,0,1,1,1,0,1,1,1,1,0,0,0,0,1,4,1,2
+86,9,love,Mothers and priests love unconditionally.,continuous,2.67,0,0,1,1,0,0,1,0,0,0,1,0,0,0,1,2,1,1
+87,9,love,A man might love this world that it would break his heart.,continuous,2.67,1,0,1,1,1,0,1,1,1,1,0,0,0,0,0,4,1,2
+88,9,love,Happy families and secrets love one another.,continuous,2.67,1,0,1,1,0,0,1,0,0,0,1,0,1,0,0,3,0,1
+89,9,love,Then I will love my family with all my heart.,continuous,2.67,1,0,1,1,0,0,1,1,1,1,0,0,0,1,0,3,1,1
+90,9,love,Brad and Jen loved each other but not completely.,continuous,2.67,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,3,1,1
+91,10,drown,The drum drowns out the noises from everyday reality so the dreamer can focus exclusively on the dream journey.,continuous,3.17,0,1,1,0,0,0,1,1,1,0,0,0,0,0,1,6,0,2
+92,10,drown,My hands and arms drowned but my head stayed afloat. ,continuous,3.17,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,3,0,2
+93,10,drown,"In December 2010 and January 2011, Tropical Cyclone Tasha and a wet year drowned Queensland, Australia.",continuous,3.17,1,0,1,0,0,0,1,1,0,0,1,0,0,0,1,4,1,1
+94,10,drown,"Sula and Marcus drown in time consuming, space bending sound.",continuous,3.17,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,3,1,2
+95,10,drown,"He drowns his old self in the bath, but doesn't go through with it out of love for his parents.",continuous,3.17,1,0,1,0,0,0,1,1,1,1,0,0,0,1,1,6,1,1
+96,10,drown,Children and adults may drown in an improperly sized or adjusted PFD.,continuous,3.17,0,0,1,0,1,0,1,0,0,0,1,0,0,0,1,3,1,1
+97,10,drown,"An apparently mentally ill woman drowned her daughters, a recent incident discussed in the story.",continuous,3.17,1,0,1,0,0,0,1,1,1,0,0,0,0,0,1,4,1,2
+98,10,drown,A girl and someone else drowned.,continuous,3.17,0,0,1,0,0,0,1,0,0,0,1,0,0,1,1,2,1,2
+99,10,drown,"Klara drowned me and I drowned her, maybe at the same time. ",continuous,3.17,1,0,1,0,0,0,1,1,1,1,0,0,0,0,1,4,1,2
+100,10,drown,"Paula and the lifeguard cannot drown each other, one has to save the other.",continuous,3.17,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,5,1,2
+101,11,see,"The doctor sees many patients, so wait for your turn.",continuous,3,1,0,1,0,0,0,1,1,1,0,0,0,0,0,1,3,1,1
+102,11,see,Dogs and cats see in black and white.,continuous,3,0,0,1,1,0,0,1,0,0,0,1,0,0,0,1,2,0,1
+103,11,see,"I see you as a little less gentlemanly, and considerably more cut-throat in the House.",continuous,3,1,0,1,1,0,0,1,1,1,1,0,0,0,0,1,3,1,1
+104,11,see,"At that moment, Jesus and His disciples see.",continuous,3,0,0,1,1,0,0,1,0,0,0,1,0,0,0,1,2,1,1
+105,11,see,We saw Claire after she quit the TVD spin-off show The Originals early last year.,continuous,3,1,0,1,0,0,0,1,1,0,1,0,0,0,0,1,8,1,2
+106,11,see,"To their dismay, Resource Center and the landlord saw.",continuous,3,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,2,1,1
+107,11,see,I could see Evie and Ashton.,continuous,3,1,0,1,0,1,0,1,1,1,0,0,1,0,0,1,3,1,1
+108,11,see,Some boys and girls can see and some cannot.,continuous,3,0,0,1,1,1,0,1,0,0,0,1,0,0,0,1,3,1,2
+109,11,see,"Next year, I will see entire families with their kids in tow.",continuous,3,1,0,1,1,0,0,1,1,1,0,0,0,0,0,1,4,1,1
+110,11,see,My ex-wife and I saw each other periodically but I ignored her.,continuous,3,0,0,1,1,0,0,1,1,0,0,1,0,0,0,1,5,1,3
+111,12,hit,"Very few Pokemon hit over 200 damage, which makes Mega and Primal Pokemon VERY difficult to take out in one shot.",continuous,1.67,1,0,1,1,0,0,1,1,0,1,0,0,0,0,0,6,1,3
+112,12,hit,Taylor and Selena hit each other in the music video.,continuous,1.67,1,0,1,1,0,0,1,0,0,0,1,0,1,0,1,4,1,1
+113,12,hit,"Male or female, you will hit back as hard as I can hit you.",continuous,1.67,0,0,1,1,0,0,1,1,1,1,0,0,0,0,1,4,1,2
+114,12,hit,Some men hit their wives and it is pathetic.,continuous,1.67,1,0,1,1,0,0,1,1,0,0,0,0,0,0,1,3,1,2
+115,12,hit,My abuser hit me and then I hit him back.,continuous,1.67,1,0,1,1,0,0,1,1,1,1,0,0,0,0,1,4,1,2
+116,12,hit,The boys in fourth grade and some other boys with squirt guns hit one another.,continuous,1.67,1,0,1,1,0,0,1,0,0,0,1,0,1,0,1,3,1,1
+117,12,hit,Mark hit me two or three times in the same period.,continuous,1.67,1,0,1,1,0,0,1,1,0,1,0,0,0,0,1,3,1,1
+118,12,hit,The pain and sadness hit hard.,continuous,1.67,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,6,0,2
+119,12,hit,Hogan hit him with a big boot to the chest.,continuous,1.67,0,1,1,1,0,0,1,1,1,1,0,0,0,0,1,4,1,1
+120,12,hit,Our interests hit us particularly but do not hit America.,continuous,1.67,1,0,1,1,0,0,1,1,0,0,0,0,0,0,0,2,0,1
+121,13,follow,"I followed a mare in heat, but I stayed a good distance away just in case she tried anything with me.",continuous,2.33,1,0,1,0,0,0,1,1,1,1,0,0,0,1,0,13,1,3
+122,13,follow,Public opinion and scientific consensus followed.,continuous,2.33,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,2,0,1
+123,13,follow,I will follow the shady merchant to see where he goes.,continuous,2.33,1,0,1,1,0,0,1,1,1,1,0,0,0,1,1,3,1,2
+124,13,follow,Heart and mind will follow once you've found your soul.,continuous,2.33,0,0,1,1,0,0,1,1,0,1,1,0,0,0,1,5,0,2
+125,13,follow,Things might follow natural laws when given the option.,continuous,2.33,1,0,1,1,1,0,1,1,0,0,0,0,0,0,1,2,0,1
+126,13,follow,The criminals and the police follow each other.,continuous,2.33,1,0,1,1,0,0,1,0,0,0,1,0,1,0,1,3,1,1
+127,13,follow,I'll follow her and she'll follow me back.,continuous,2.33,1,0,1,1,0,0,1,1,1,1,0,0,0,0,1,4,1,2
+128,13,follow,Extremely violent upheaval and harsh words may follow. ,continuous,2.33,0,0,1,1,1,0,1,0,0,0,1,0,0,0,1,2,0,1
+129,13,follow,Ban Ki-moon followed the other President.,continuous,2.33,1,0,1,0,0,0,1,1,1,0,0,0,0,0,1,2,1,1
+130,13,follow,The family members and teachers followed one another into the hall.,continuous,2.33,1,0,1,0,0,0,1,0,0,0,1,0,1,0,1,4,1,1
+131,14,choke,You cannot choke him if you don't want to kill him. ,continuous,2.83,1,0,1,1,1,1,1,1,1,1,0,0,0,0,1,6,1,2
+132,14,choke,CEOs and CFOs here would probably rather choke before praising the reduction in numbers.,continuous,2.83,0,0,1,1,0,0,1,1,0,1,1,0,0,0,1,4,1,1
+133,14,choke,You choked the victim into unconsciousness and then rob them of all they are carrying.,continuous,2.83,1,0,1,0,0,0,1,1,1,1,0,0,0,1,1,5,1,2
+134,14,choke,The president and his affiliates will choke once I've done my work.,continuous,2.83,0,0,1,1,0,0,1,1,0,1,1,0,0,0,1,5,0,2
+135,14,choke,"I won't choke you, I'm not that long.",continuous,2.83,1,0,1,1,0,1,1,1,1,1,0,0,0,0,1,4,1,2
+136,14,choke,The baby and the sister might choke if their noses and mouths are not covered. ,continuous,2.83,0,0,1,1,1,0,1,0,0,0,1,0,0,1,1,4,1,2
+137,14,choke,Bonnie choked Miller and he choked her back.,continuous,2.83,1,0,1,0,0,0,1,1,1,1,0,0,0,0,1,4,1,2
+138,14,choke,The DA and the man choked each other.,continuous,2.83,1,0,1,0,0,0,1,0,0,0,1,0,1,0,1,3,1,1
+139,14,choke,"The squid choked with the fish, it was massacre.",continuous,2.83,0,1,1,1,0,0,1,1,1,1,0,0,0,0,1,4,0,4
+140,14,choke,My mom and my boyfriend choked when I told them I was pregnant.,continuous,2.83,0,0,1,0,0,0,1,1,0,0,1,0,0,0,1,6,1,3
+141,15,eat,They eat some fruit gathered from the plentiful trees within the rainforest. ,continuous,2.17,1,0,1,1,0,0,1,1,0,1,0,0,0,1,0,6,1,2
+142,15,eat,The family and the new mother-in-law ate.,continuous,2.17,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,2,0,1
+143,15,eat,One can eat a snack during the break or a rest from fun.,continuous,2.17,1,0,1,1,1,0,1,1,1,1,0,0,0,1,0,4,1,1
+144,15,eat,"Some bugs and worms eat, while others do not.",continuous,2.17,0,0,1,1,0,0,1,0,0,0,1,0,0,0,1,3,0,2
+145,15,eat,He probably may have eaten sand as a child.,continuous,2.17,1,0,1,0,1,0,1,1,1,1,0,0,0,1,0,3,1,1
+146,15,eat,The pizza delivery man and the actress eat together often.,continuous,2.17,0,0,1,1,0,0,1,0,0,0,1,0,0,1,1,2,1,1
+147,15,eat,And then we'd eat the cake.,continuous,2.17,1,0,1,1,0,0,1,1,0,1,0,0,0,1,0,2,1,1
+148,15,eat,The model and her friend would probably eat each other after this is all over.,continuous,2.17,1,0,1,1,0,0,1,0,0,0,1,0,1,0,1,4,1,2
+149,15,eat,My mother and Mary Poppins ate plenty of carrots.,continuous,2.17,1,0,1,0,0,0,1,1,0,1,1,0,0,1,1,4,1,1
+150,15,eat,My date and I ate together but he paid the bills.,continuous,2.17,0,0,1,0,0,0,1,1,0,0,1,0,0,0,1,6,1,3
+151,16,copy,Live-boot will copy the entire read-only media before mounting the root filesystem. ,continuous,2,1,0,1,1,0,0,1,1,1,0,0,0,0,0,1,2,1,1
+152,16,copy,Snapchat and Instagram copied each other.,continuous,2,1,0,1,0,0,0,1,0,0,0,1,0,1,0,1,3,1,1
+153,16,copy,Readers should copy the characters depicted In the book.,continuous,2,1,0,0,1,0,0,1,1,0,0,0,0,0,0,1,5,1,2
+154,16,copy,The apprentices and the masters copied one another.,continuous,2,1,0,1,0,0,0,1,0,0,0,1,0,1,0,1,3,1,1
+155,16,copy,The candidate should copy the paragraph at item No. 12 of the Information Sheet in English in their own running handwriting.,continuous,2,1,0,1,1,0,0,1,1,1,1,0,0,0,0,0,3,1,1
+156,16,copy,Officer Brooks and the other guy won't copy.,continuous,2,0,0,1,1,0,1,1,0,0,0,1,0,0,0,1,2,1,1
+157,16,copy,The sales this year copied the sales from last year.,continuous,2,0,1,1,0,0,0,1,1,0,0,0,0,0,0,1,3,0,1
+158,16,copy,Some ingrates and not all criminals copied.,continuous,2,0,0,1,1,0,0,1,0,0,0,1,0,0,0,1,2,1,2
+159,16,copy,The rich fashion designer copied the poor seamstress and so the seamstress copied her back.,continuous,2,1,0,1,0,0,0,1,1,1,1,0,0,0,1,1,4,1,2
+160,16,copy,"Facebook and Instagram have copied before, they'll do it again.",continuous,2,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,4,1,2
+161,17,save,We potentially saved as much as $440 million. ,continuous,3.17,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0,2,1,1
+162,17,save,The hero and the villain saved each other because it was exciting.,continuous,3.17,1,0,1,0,0,0,1,0,0,0,1,0,1,0,1,4,1,2
+163,17,save,"I'll save all of those that have been identified for a separate article, because that's going to take a lot of space! ",continuous,3.17,1,0,1,1,0,0,1,1,1,0,0,0,0,0,0,12,1,3
+164,17,save,The parents and children save each other time by being cooperative.,continuous,3.17,1,0,1,1,0,0,1,0,0,1,1,0,1,0,1,3,1,1
+165,17,save,Superman saved Lois Lane so many times.,continuous,3.17,1,0,1,0,0,0,1,1,1,1,0,0,0,0,1,2,1,1
+166,17,save,The Indians and Chinese saved for years.,continuous,3.17,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,3,1,1
+167,17,save,"Dr. Tengis Gvasalia, the director, saved many lives and he feels like they saved him too.",continuous,3.17,1,0,1,0,0,0,1,1,1,0,0,0,0,0,0,7,1,3
+168,17,save,The twins and the mother saved but the money ran out.,continuous,3.17,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,3,1,2
+169,17,save,"He also, more than once, saved young men from regime forces attempting to marshall into mandatory military service.",continuous,3.17,1,0,1,0,0,0,1,1,1,0,0,0,0,0,1,6,1,2
+170,17,save,"Jesus and Allah save, but is it enough?",continuous,3.17,0,0,1,1,0,0,1,0,0,0,1,0,0,0,1,3,1,2
+171,19,rhyme,"Skype rhymes with type, at least that's what I think.",binary,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,6,0,3
+172,19,rhyme,My employer's name and hell rhyme.,binary,1,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,2,0,1
+173,19,rhyme,"A song called ""Stronger"" rhymed with a line about not waiting any ""longer"" and the word ""wronger"".",binary,1,0,1,0,0,0,0,1,1,1,0,0,0,0,0,1,3,0,2
+174,19,rhyme,The line about love and the one about burgers rhyme nicely but don't make sense.,binary,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,7,0,3
+175,19,rhyme,Deayton rhymes with Eton but is often mispronounced.  ,binary,1,0,1,0,0,0,0,1,1,1,0,0,0,0,0,1,2,1,1
+176,19,rhyme,Line 1 and Line 2 in the Haiku poem don't need to rhyme. ,binary,1,0,0,0,0,0,1,1,1,0,0,1,0,0,0,1,3,0,1
+177,19,rhyme,"""Sally Mae"" kinda rhymes with bullshit.  ",binary,1,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,2,1,1
+178,19,rhyme,"Repression and depression do rhyme, so look forward to rampant price inflation.",binary,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,2,0,1
+179,19,rhyme,"Krugle does rhyme with Google, but apart from that why should Krugle be more popular?  ",binary,1,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,3,1,3
+180,19,rhyme,"This and the next line, their hearts as cold as ice, don't rhyme.",binary,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,2,0,1
+181,20,tie,Mary Ann Gomes tied with Soumya and Tania on 7.5 points.,binary,1,0,1,0,0,0,0,1,1,1,0,0,0,0,0,1,3,1,1
+182,20,tie,Q3 winner Dustin Evans and his big rival tied.,binary,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,2,1,1
+183,20,tie,But he could only tie with Dawn Creten. ,binary,1,0,1,1,0,1,0,1,1,1,1,0,0,0,0,1,2,1,1
+184,20,tie,Ste Atkinson and Andrew were almost tied.,binary,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,2,1,1
+185,20,tie,Email lists really tie with customers.,binary,1,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,2,0,1
+186,20,tie,"You and another player are tied, so advance to the next round.",binary,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,3,1,1
+187,20,tie,"Canada tied with Germany, meaning Canada was good enough.",binary,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,1,2,1,2
+188,20,tie,Slytherin and Hufflepuff were tied but Hufflepuff won next time.,binary,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,3,1,2
+189,20,tie,Kuperman will tie with Farrell for third if Mr. Kuperman wins the last round.,binary,1,0,1,1,0,0,0,1,1,1,1,0,0,0,0,1,6,1,2
+190,20,tie,"Ferguson and Lee were tied in round 72, forcing a playoff.",binary,1,0,0,0,0,0,0,1,1,0,1,1,0,0,0,1,4,1,1
+191,23,chat,I was chatting to him the other day about his wedding.,binary,1,0,1,0,1,0,0,1,1,1,1,0,0,0,1,1,3,1,1
+192,23,chat,The women and men were chatting but one woman did not want to participate.,binary,1,0,0,1,1,0,0,0,0,0,1,1,0,0,0,1,5,1,2
+193,23,chat,Effie chatted with the Deans about her prospective admission.,binary,1,0,1,0,1,0,0,1,1,1,0,0,0,0,1,1,3,1,1
+194,23,chat,Friends and enemies chat for awhile before the inevitable spat.,binary,1,0,0,1,1,0,0,1,0,0,0,1,0,0,0,1,3,1,1
+195,23,chat,Prospective volunteers can chat with representatives of international volunteer organizations.,binary,1,0,1,1,1,1,0,1,1,0,0,0,0,0,1,1,3,1,1
+196,23,chat,Roger and the crew chatted with each other.,binary,1,0,1,0,1,0,0,1,0,1,0,1,0,1,0,0,3,1,1
+197,23,chat,Maker's Block chatted with her to get her views on the state of the Maker Movement in Singapore.,binary,1,0,1,0,1,0,0,1,1,0,0,0,0,0,0,1,6,1,1
+198,23,chat,You will chat with Sinead and Gaye like it's the last night of your life.,binary,1,0,1,1,1,0,0,1,1,1,0,0,0,0,0,1,3,1,3
+199,23,chat,"Dr. Kiki chatted with Tom Robinson, VP of projects, and Dan Goldman, CFO.",binary,1,0,1,0,1,0,0,1,1,1,0,0,0,0,0,1,3,1,1
+200,23,chat,My wife and my mistress chatted over drinks.,binary,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1,3,1,1
+201,26,alternate,Her aggressive moods alternated with gentle or more cooperative states.,binary,1,0,1,0,0,0,0,1,1,0,0,0,1,0,1,1,2,0,2
+202,26,alternate,You should alternate layers of that mixture and eggplant.,binary,1,1,0,1,1,0,0,1,1,1,0,0,0,0,0,1,3,1,1
+203,26,alternate,The Priestess may alternate with the Priest if the Bishop sees fit.,binary,1,0,1,1,1,1,0,1,1,0,0,0,0,0,0,1,2,1,2
+204,26,alternate,Floral patterns and mosaic patterns can alternate depending on your mood.,binary,1,0,0,1,0,1,0,1,0,0,0,1,0,0,0,1,3,0,1
+205,26,alternate,Walking can alternate with driving to give the environment a break.,binary,1,0,0,1,0,1,0,1,1,1,1,0,0,0,0,1,2,0,1
+206,26,alternate,Light and dark cycles alternated with each other.,binary,1,0,1,0,0,0,0,1,0,0,0,0,0,1,0,1,2,0,1
+207,26,alternate,Andrew alternated between poking at the write concurrency issues and doing functional benchmark comparisons.,binary,1,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,3,1,1
+208,26,alternate,The blind spot detection display or the automatic rain sensor operation display may alternate with other display functions by a display toggle.,binary,1,0,1,1,0,1,0,1,1,1,0,1,0,0,0,1,4,0,1
+209,26,alternate,Song alternated with dance in this fascinating play.,binary,1,0,1,0,0,0,0,1,1,1,0,0,0,0,0,1,3,0,1
+210,26,alternate,Grammar and comprehension exercises alternated with each other.,binary,1,0,1,0,0,0,0,1,0,0,0,0,0,1,0,1,2,0,1
+211,27,mix,I mixed the cinnamon with the rest of the sugar.,binary,1,0,1,0,1,0,0,1,1,1,1,0,0,0,0,1,4,0,1
+212,27,mix,Oil and water don't mix.,binary,1,0,0,1,1,0,1,1,0,0,0,1,0,0,0,1,2,0,1
+213,27,mix,The girl mixed a fleshy aloe leaf with a tablespoon of honey.,binary,1,0,1,0,1,0,0,1,1,1,1,0,0,0,1,1,4,0,1
+214,27,mix,The goths and punks mix with each other quite well.,binary,1,0,1,1,1,0,0,1,0,0,0,1,0,1,0,1,3,1,1
+215,27,mix,The chemist mixed the solute with the solvent to get a reaction.,binary,1,0,1,0,1,0,0,1,1,1,1,0,0,0,0,1,3,0,1
+216,27,mix,She mixed her facades and garden ornament knick knacks.,binary,1,1,0,0,1,0,0,1,1,1,0,0,1,0,0,1,3,0,1
+217,27,mix,Turkish men do not mix with Cypriot girls because they are very independent.,binary,1,0,1,1,1,0,1,1,1,0,0,0,0,0,1,1,2,0,2
+218,27,mix,"Red and blue colors should never be mixed, red is for the optimists and blue for pessimists.",binary,1,0,0,0,1,0,1,1,0,0,0,1,0,0,1,1,2,0,2
+219,27,mix,"The voice does not mix with the music, but the music works with everything.",binary,1,0,1,1,1,0,1,1,1,1,0,0,0,0,0,1,5,0,2
+220,27,mix,The egg and sperm were mixed but they should have not been.,binary,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,1,3,0,2
+221,28,coexist,Newspaper websites can coexist with the print newspapers and still bring in healthy profit margins.,binary,1,0,1,1,0,1,0,1,1,0,0,0,0,0,0,1,3,0,1
+222,28,coexist,Our universe and matter would not coexist if there is no change-of-state at the microworld level of quantum mechanics.,binary,1,0,0,1,0,0,1,1,0,0,0,1,0,0,0,1,3,0,2
+223,28,coexist,Handlers used in this demo can coexist with loading operations that access shadow RAM.,binary,1,0,1,1,0,1,0,1,1,0,0,0,0,0,0,1,6,0,3
+224,28,coexist,Crowdsourcing sites and the professional design community might coexist peacefully.,binary,1,0,0,1,0,1,0,1,0,0,0,1,0,0,0,1,2,0,1
+225,28,coexist,"We coexist with the natural world, but it tries hard to resist.",binary,1,0,1,1,0,0,0,1,1,0,1,0,0,0,1,0,5,1,2
+226,28,coexist,"Fingernail fungus and athlete's foot may coexist, but they are not the same.",binary,1,0,0,1,0,1,0,1,0,0,0,1,0,0,0,1,3,0,3
+227,28,coexist,They can really coexist peacefully in the tank with thousands of fish and the occasional diver.,binary,1,0,1,1,0,1,0,1,1,0,0,0,0,0,1,1,4,1,1
+228,28,coexist,Conservation and renewable energy development can coexist in the 21st century.,binary,1,0,0,1,0,1,0,1,0,0,0,1,0,0,0,1,3,0,1
+229,28,coexist,Some people like me with a slow wifi connection cannot coexist with site maintainers who feel differently.,binary,1,0,1,1,0,1,1,1,1,0,0,0,0,0,1,1,3,1,2
+230,28,coexist,Religion and science can coexist with each other if conveyed well by a rational spokesperson.,binary,1,0,1,1,0,1,0,1,0,0,0,1,0,1,0,1,3,0,1
+231,29,clash,His approach might clash with the wishes of some Vermonters.,binary,1,0,1,1,1,1,0,1,1,1,0,0,0,0,0,1,3,0,1
+232,29,clash,"The interests of the mafia and Pathan job interests do not clash in any way, they compliment each other.",binary,1,0,0,1,1,0,1,1,0,0,0,1,0,0,0,1,3,0,2
+233,29,clash,"Maternity Shirts would clash with her pinup girl look, but she didn't care.",binary,1,0,1,1,1,0,0,1,1,0,0,0,0,0,1,1,4,1,3
+234,29,clash,Waterford and Antrim will clash again in the first round of the Under-16 ''B'' Championship at a halfway venue (TBC) at 2.30.,binary,1,0,0,1,1,0,0,1,0,0,0,1,0,0,0,1,6,1,1
+235,29,clash,You won't clash with a society or competition if you check with the Parknasilla Hotel.,binary,1,0,1,1,1,0,1,1,1,1,0,0,0,0,0,1,5,1,2
+236,29,clash,Some religious fanatics and scientists clash with one another.,binary,1,0,1,1,1,0,0,1,0,0,0,1,0,1,0,1,3,1,1
+237,29,clash,Not all the boys clashed with the girls.,binary,1,0,1,0,1,0,0,1,1,0,0,0,0,0,0,1,2,1,1
+238,29,clash,"The textbook lessons and the real world sometimes clash, all the more reasons to live in a big city.",binary,1,0,0,1,1,0,0,1,0,0,0,1,0,0,0,1,3,0,1
+239,29,clash,"On December 18, Dilwale will clash with Sanjay Leela Bhansali's biopic, Bajirao Mastani, about Peshwa Bajirao.",binary,1,0,1,1,1,0,0,1,1,0,0,0,0,0,0,0,4,1,1
+240,29,clash,LCS and LACS will clash with each other again at the Winners' Bracket Finals after disposing of their first round opponents.,binary,1,0,1,1,1,0,0,1,0,0,0,1,0,1,0,1,5,1,1
+241,30,converse,"Gabriel could converse with the guards in German, so Gabriel was able to leave on weekends.",binary,1,0,1,1,1,1,0,1,1,1,0,0,0,0,0,0,2,1,2
+242,30,converse,Some of the nuns and the girls could converse fluently in Latin in the Strassburg monastery of St. Margaret.,binary,1,0,0,1,1,1,0,1,0,0,0,1,0,0,0,1,8,1,2
+243,30,converse,I can converse with them in their own tongue since I have learnt their language pretty well.,binary,1,0,1,1,1,1,0,1,1,1,1,0,0,0,0,1,6,1,2
+244,30,converse,"Adam and Eve conversed with each other as language was given, and Adam spoke first.",binary,1,0,1,0,1,0,0,1,0,1,0,1,0,1,1,0,5,1,3
+245,30,converse,"Taveras will converse with the others on the panel ""Electoral Politics: Latino Identity, Partisanship, Mobilization, and Voting.""",binary,1,0,1,1,1,0,0,1,1,0,0,0,0,0,0,0,3,1,1
+246,30,converse,He and the people of Sakhalin and the Amur conversed via interpreter.,binary,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,1,3,1,1
+247,30,converse,"You can converse with your peers in a caf_, as it's not a bad place to hang out in.",binary,1,0,1,1,1,1,0,1,1,1,0,0,0,0,0,1,6,1,3
+248,30,converse,"As long as the caller and subscriber conversed with each other, the connection between port A and port B would be held.",binary,1,0,1,0,1,0,0,1,0,0,0,1,0,1,0,1,4,1,2
+249,30,converse,"Lead teachers should converse with parents when it is most comfortable for the family, but especially at drop off and pick up times.",binary,1,0,1,1,1,0,0,1,1,0,0,0,0,0,0,1,4,1,2
+250,30,converse,"Mark Bradford, featured in the Season 4 episode Paradox, and Thelma Golden, Director and Chief Curator at the Studio Museum will converse in Harlem at 7pm.",binary,1,0,0,1,1,0,0,1,0,0,0,1,0,0,0,1,9,1,3
+251,32,hate,"You may hate that song, Last Christmas by Wham!",binary,0,1,0,1,1,1,0,1,1,1,1,0,0,0,0,0,4,1,1
+252,32,hate,"The racist groups and incels always hate, it's what they do.",binary,0,0,0,1,1,0,0,1,0,0,0,1,0,0,1,1,5,1,3
+253,32,hate,"Jews in any period, even in the darkest of the Middle Ages, did not hate other subjects. ",binary,0,1,0,1,1,0,1,1,1,0,0,0,0,0,1,1,2,1,1
+254,32,hate,The republicans and the liberals hate one another in America. ,binary,0,1,0,1,1,0,0,1,0,0,0,1,0,1,0,1,4,1,1
+255,32,hate,"They must hate games like Pats-Jets, and the games probably hate them too.",binary,0,1,0,1,1,0,0,1,1,0,0,0,0,0,1,1,5,1,2
+256,32,hate,"Kamala and her husband hated each other for so long, but now she treats him with love. ",binary,0,1,0,0,1,0,0,1,0,0,0,1,0,1,0,1,7,1,2
+257,32,hate,Al-Anon can hate the alcoholic and vice versa.,binary,0,1,0,1,1,1,0,1,1,0,1,0,0,0,0,0,2,1,1
+258,32,hate,Not all boys and girls hate each other.,binary,0,1,0,1,1,0,0,1,0,0,0,1,0,1,0,1,3,1,1
+259,32,hate,I hate my kids and they hate me.,binary,0,1,0,1,1,0,0,1,1,1,0,0,0,0,0,1,4,1,2
+260,32,hate,Dad and my stepmom hated each other but not always at the same time.,binary,0,1,0,0,1,0,0,1,0,0,0,1,0,1,0,1,4,1,1
+261,33,kill,"They killed fleas, flies, and disease-carrying insects in the old people's home in Pashupati.",binary,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,5,1,1
+262,33,kill,The disease and the virus kill as they are the same.,binary,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,1,4,0,3
+263,33,kill,The creator of biblical imagery will kill me if I said yes.,binary,0,1,0,1,1,0,0,1,1,1,1,0,0,0,0,1,3,1,2
+264,33,kill,Jack and I will kill each other once you leave town.,binary,0,1,0,1,1,0,0,1,0,0,0,1,0,1,0,1,5,1,2
+265,33,kill,"After his defeat in New York, the X-Men would probably kill the man, but they didn''t.",binary,0,1,0,1,1,0,0,1,1,0,1,0,0,0,0,0,2,0,1
+266,33,kill,"They won't kill him, they will kill with him.",binary,0,1,0,1,1,0,1,1,1,0,1,0,0,0,0,1,4,1,2
+267,33,kill,Christine Quinn can kill legislation simply by not bringing it to the council floor for a vote.,binary,0,1,0,1,1,1,0,1,1,1,1,0,0,0,0,0,4,1,1
+268,33,kill,Wes killed Sam but Sam killed him in the act apparently.,binary,0,1,0,0,1,0,0,1,1,1,1,0,0,0,0,1,6,1,2
+269,33,kill,He will kill you and me if we talk.,binary,0,1,0,1,1,0,0,1,1,1,0,0,1,0,0,1,4,1,2
+270,33,kill,"The mafia and the gang have killed together to hide this secret, okay?",binary,0,0,0,0,1,0,0,1,1,0,1,1,0,0,0,1,3,0,1
+271,34,chase,Water won't chase her out of the place.,binary,0,1,0,1,1,0,1,1,1,1,1,0,0,0,0,0,3,0,1
+272,34,chase,Dreams and reality constantly chase each other to no avail.,binary,0,1,0,1,1,0,0,1,0,0,0,1,0,1,0,1,4,0,1
+273,34,chase,LL will blindly chase after them but really they will be chasing after him.,binary,0,1,0,1,1,0,0,1,1,1,0,0,0,0,0,1,5,1,2
+274,34,chase,My exes and I chase after one another but I always choose one.,binary,0,0,0,1,1,0,0,1,0,0,0,1,0,1,0,1,5,1,2
+275,34,chase,A goshawk may also chase poultry into buildings.,binary,0,1,0,1,1,1,0,1,1,1,1,0,0,0,0,1,3,1,1
+276,34,chase,MPs and government officials from Badakhshan chased and chased but found nothing.,binary,0,0,0,1,1,0,0,0,1,0,0,1,0,0,0,1,5,1,2
+277,34,chase,Rylee 2.0 chased some squirrel 500 ft from us. ,binary,0,0,1,0,1,0,0,1,1,1,1,0,0,0,0,0,3,1,1
+278,34,chase,He and the story chased each other until he caught up.,binary,0,1,0,0,1,0,0,1,0,0,0,1,0,1,0,0,4,1,2
+279,34,chase,My wife will chase me and my mother-in-law outside if we don't leave her alone in there. ,binary,0,1,0,1,1,0,0,1,1,1,0,0,1,0,0,1,6,1,2
+280,34,chase,Officer Leroy Applequist and cruisers used to chase each other in Modesto.,binary,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,1,4,1,1
+281,35,hurt,I will hurt you more so stop screaming.,binary,0,1,0,1,1,0,0,1,1,1,1,0,0,0,0,1,2,1,1
+282,35,hurt,Extraordinarily low mortgage rates and bankrupcy claims don't hurt either.,binary,0,0,0,1,1,0,1,1,0,0,0,1,0,0,0,1,2,0,1
+283,35,hurt,Some of these people maybe hurt the lens.,binary,0,1,0,1,1,0,0,1,1,0,1,0,0,0,0,0,2,1,1
+284,35,hurt,This and breastfeeding do not hurt each other if you are doing it right.,binary,0,1,0,1,1,0,1,1,0,0,0,1,0,1,0,1,5,0,2
+285,35,hurt,"You can hurt yourself and others, and I want people to think about that. ",binary,0,1,0,1,1,1,0,1,1,1,0,0,1,0,0,1,5,1,3
+286,35,hurt,The stocks and banks will hurt and I'll ensure it.,binary,0,0,0,1,1,0,0,1,1,0,1,1,0,0,0,1,5,0,2
+287,35,hurt,"The baby's birth hurts the mother, but the mother hurts the baby too.",binary,0,1,0,1,1,0,0,1,1,1,1,0,0,0,0,0,4,0,2
+288,35,hurt,Rural communities and wildlife hurt because of your actions.,binary,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1,3,0,1
+289,35,hurt,"The financial system will hurt everyone except the ""Elite"" and those that are aware and prepared.",binary,0,1,0,1,1,0,0,1,1,1,1,0,0,0,0,0,3,0,2
+290,35,hurt,He and I both hurt when we do it.,binary,0,0,0,1,1,0,0,1,1,0,1,1,0,0,0,1,5,1,2
+291,40,push,Murtha pushed for a pullout of U.S. forces from Iraq as soon as it could be done safely.,binary,0,1,0,0,1,0,0,1,1,1,1,0,0,0,1,0,5,1,2
+292,40,push,The members and leaders pushed each other to thrive.,binary,0,1,0,0,1,0,0,1,0,0,0,1,0,1,0,1,3,1,1
+293,40,push,"Quentin Tarantino pushes the limits of speed and taste in ""Death Proof.""",binary,0,1,0,1,1,0,0,1,1,1,0,0,0,0,0,0,4,1,1
+294,40,push,"William Stephenson and William Donovan pushed, and the board listened.",binary,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1,3,1,2
+295,40,push,Her finger pushed against his sphincter and he squealed.,binary,0,1,0,0,1,0,0,1,1,1,1,0,0,0,1,1,3,0,2
+296,40,push,The girl with the low GPA and the other dropout will push if you let them.,binary,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,1,4,1,2
+297,40,push,Pakistan shall not push Afghan refugees to return.,binary,0,1,0,1,1,0,1,1,1,0,0,0,0,0,0,0,2,1,1
+298,40,push,Council and the congress are pushing together.,binary,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,1,2,1,1
+299,40,push,"Another person or power will push them, but it won't be me.",binary,0,1,0,1,1,0,0,1,1,1,0,1,0,0,0,1,5,1,3
+300,40,push,Lightweight lanai furniture and a lanai railing pushed each other last time.,binary,0,1,0,0,1,0,0,1,0,0,0,1,0,1,0,1,3,0,1
+301,41,collaborate,Much later he collaborated with his son Michael on the English translation of a text on food production.,binary,1,0,1,0,1,0,0,1,1,1,0,0,0,0,0,1,5,1,1
+302,41,collaborate,Professionals and amateurs collaborated in the making of music.,binary,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1,4,1,1
+303,41,collaborate,He collaborated with the Nazis during World War II.,binary,1,0,1,0,1,0,0,1,1,1,0,0,0,0,0,1,3,1,1
+304,41,collaborate,Patterson and Bill Clinton collaborated on a novel.,binary,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1,3,1,1
+305,41,collaborate,"I'd rather collaborate with a tarantula, because I'm vermin right now.",binary,1,0,1,1,1,0,0,1,1,1,0,0,0,0,0,0,2,1,2
+306,41,collaborate,Rock 'n' roll and surf collaborate to introduce this popular board short inspired by the Red Hot Chili Peppers (RHCP).,binary,1,0,0,1,1,0,0,1,0,0,0,1,0,0,0,1,3,0,2
+307,41,collaborate,"He collaborated with other authors, jumpstarting his career as a dramatist.",binary,1,0,1,0,1,0,0,1,1,1,1,0,0,0,0,1,4,1,1
+308,41,collaborate,The writer and applicant can certainly collaborate on the letter if need be.,binary,1,0,0,1,1,1,0,1,0,0,0,1,0,0,0,1,4,1,2
+309,41,collaborate,Although Lloyd Webber collaborated with comedian and author Ben Elton.,binary,1,0,1,0,1,0,0,1,1,1,0,0,0,0,0,1,2,1,1
+310,41,collaborate,"My ex and I could collaborate, but he is such an asshole.",binary,1,0,0,1,1,1,0,1,0,0,0,1,0,0,0,1,4,1,3
+311,42,communicate,He couldn't communicate with her once she disabled her translator.,binary,1,0,1,1,1,1,1,1,1,1,1,0,0,0,0,1,5,1,2
+312,42,communicate,Helen and I have not communicated since our divorce.,binary,1,0,0,0,1,0,1,1,0,0,0,1,0,0,0,1,3,1,1
+313,42,communicate,Gabe communicates with the small life through magic.,binary,1,0,1,1,1,0,0,1,1,1,0,0,0,0,0,0,3,1,1
+314,42,communicate,Alexander and his base communicated only by the narrow line of the Hellespont.,binary,1,0,0,0,1,0,0,1,0,1,0,1,0,0,1,0,4,1,1
+315,42,communicate,These cavities communicate with the exterior through the gonad ducts.,binary,1,0,1,1,1,0,0,1,1,0,0,0,0,0,1,1,3,0,1
+316,42,communicate,Rarely do the admissions officer and the parent not communicate.,binary,1,0,0,1,1,0,1,1,0,0,0,1,0,0,0,1,2,1,1
+317,42,communicate,I am not communicating with a stranger.,binary,1,0,1,1,1,0,1,1,1,1,0,0,0,0,1,1,2,1,1
+318,42,communicate,"Inhabitants and the outer world communicate by means of ""sea messages.""",binary,1,0,0,1,1,0,0,0,0,0,0,1,0,0,1,1,3,1,2
+319,42,communicate,The Oise and the canal of St Quentin communicate with Paris along the canal.,binary,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1,6,1,2
+320,42,communicate,The deaf student and teacher communicated silently.,binary,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1,2,1,1
+321,43,agree,I agreed with you that the open system is by far the best.,binary,1,0,1,0,1,0,0,1,1,1,0,0,0,0,1,1,3,1,3
+322,43,agree,Mr. Dean and I finally agree on something!,binary,1,0,0,1,1,0,0,1,0,0,0,1,0,0,0,1,3,1,1
+323,43,agree,I agree with every word you've just said.,binary,1,0,1,1,1,0,0,1,1,1,0,0,0,0,0,1,3,1,2
+324,43,agree,Neither Hitler or Stalin had agreed.,binary,1,0,0,0,1,0,0,1,0,1,0,1,0,0,0,1,2,1,1
+325,43,agree,I don't agree with him; but I will work with him.,binary,1,0,1,1,1,0,1,1,1,1,0,0,0,0,0,1,5,1,2
+326,43,agree,"Atta and Jarrah would agree and be ready to move forward in about a month, after Jarrah visited his family.",binary,1,0,0,1,1,0,0,1,0,0,0,1,0,0,0,1,5,1,2
+327,43,agree,I might agree with them and they might agree with me.,binary,1,0,1,1,1,1,0,1,1,1,0,0,0,0,0,1,5,1,2
+328,43,agree,"The principal and the mother agreed to keep things quiet, but the mother was hesitant.",binary,1,0,0,0,1,0,0,1,1,0,0,1,0,0,0,1,4,1,2
+329,43,agree,"I don't always agree with you, but that's okay, isn't it?",binary,1,0,1,1,1,0,1,1,1,1,0,0,0,0,1,1,3,1,3
+330,43,agree,Alumni and current students could agree because the university was great.,binary,1,0,0,1,1,1,0,1,0,0,0,1,0,0,0,1,2,1,2
+331,44,separate,"They separated teaching from research, garnering stellar results.",continuous,4.17,1,0,0,1,0,0,1,1,0,1,0,0,0,1,1,3,1,1
+332,44,separate,Mom and Dad separated last month.,continuous,4.17,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1,2,1,1
+333,44,separate,The front end of the car separated from the rest of the vehicle. ,continuous,4.17,0,1,0,1,0,0,1,1,1,0,0,0,0,1,1,3,0,1
+334,44,separate,The brother and sister separated once their parents disappeared.,continuous,4.17,0,0,0,1,0,0,1,0,0,0,1,0,0,1,1,3,1,2
+335,44,separate,The president separated himself from the Act.,continuous,4.17,0,1,0,1,0,0,1,1,1,1,0,0,0,0,0,3,1,1
+336,44,separate,The river separated the East and the West.,continuous,4.17,1,0,0,1,0,0,1,1,1,0,0,1,0,1,1,3,0,1
+337,44,separate,The screen might be separated from the rood beam or rood loft.,continuous,4.17,0,1,0,1,1,0,1,1,1,0,0,0,0,1,1,2,0,1
+338,44,separate,Your body and soul may be separated from each other.,continuous,4.17,0,1,0,1,1,0,1,0,0,0,1,0,1,1,1,3,0,1
+339,44,separate,This rock was separate from the rest of the mountain.,continuous,4.17,0,1,0,1,0,0,1,1,1,1,0,0,0,1,1,2,0,1
+340,44,separate,My life and yours won't be separated.,continuous,4.17,0,0,0,1,0,1,1,0,0,0,1,0,0,1,1,2,0,1
+341,45,bounce,My father would bounce a tennis ball and that annoyed my mother.,continuous,2.33,1,0,1,1,0,0,1,1,1,1,0,0,0,0,1,4,1,2
+342,45,bounce,Her long black hair and boobs bounced as she walked.,continuous,2.33,0,0,0,1,0,0,1,0,0,0,1,0,0,1,1,3,0,2
+343,45,bounce,She bounced on me while I laid in bed smiling.,continuous,2.33,0,0,0,1,0,0,1,1,1,1,0,0,0,1,1,7,1,2
+344,45,bounce,My son and daughter bounced on each other playfully.,continuous,2.33,0,0,0,1,0,0,1,0,0,0,1,0,1,0,1,3,0,1
+345,45,bounce,Light bounced off the glass and reflected my image.,continuous,2.33,0,0,0,1,0,0,1,1,1,1,0,0,0,1,1,2,0,1
+346,45,bounce,"My girlfriend and him bounced all night, if you know what I mean.",continuous,2.33,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1,7,1,3
+347,45,bounce,"I'll bounce ideas off another person, but they will bounce ideas off me too.",continuous,2.33,0,1,1,1,0,0,1,1,1,0,0,0,0,0,0,7,1,2
+348,45,bounce,"Both my email and the cheque bounced, so I'm screwed.",continuous,2.33,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1,3,1,2
+349,45,bounce,I would bounce on her butt or that butt would bounce on me.,continuous,2.33,1,0,1,1,0,0,1,1,1,1,0,0,0,1,0,5,1,2
+350,45,bounce,The tigers and the bears bounced together in celebration.,continuous,2.33,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1,3,0,1
+351,46,break,Sue broke Reagan but she felt broken too.,binary,0,1,0,0,1,0,0,1,1,0,1,0,0,0,1,1,3,1,2
+352,46,break,My heart and soul broke when I found out.,binary,0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,1,3,0,2
+353,46,break,"In 1959, Akihito broke imperial tradition by marrying a commoner.",binary,0,1,0,0,1,0,0,1,1,1,1,0,0,0,0,0,2,1,1
+354,46,break,His car and his bank account might break if you do this.,binary,0,0,0,1,1,1,0,1,0,0,0,1,0,0,0,1,5,0,2
+355,46,break,"She broke me a few years ago, so I will break her now.",binary,0,1,0,0,1,0,0,1,1,1,1,0,0,0,0,1,4,1,2
+356,46,break,The hero and the nemesis broke against each other.,binary,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,1,3,1,1
+357,46,break,"The sports star broke his nose, how original.",binary,0,1,0,0,1,0,0,1,1,1,1,0,0,0,0,1,2,1,1
+358,46,break,His voice and his thigh broke last summer.,binary,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1,2,0,1
+359,46,break,The boss might break you if disobey me.,binary,0,1,0,1,1,1,0,1,1,1,1,0,0,0,0,1,2,1,1
+360,46,break,Turing and his codes broke each other in different ways.,binary,0,1,0,0,1,0,0,1,0,0,0,1,0,1,0,0,4,1,1
+361,47,lecture,He lectures on the history of art and it's boring.,continuous,2.33,1,0,1,1,0,0,1,1,1,1,0,0,0,1,0,2,1,2
+362,47,lecture,500 students from bio and 100 students from chemistry lectured one another.,continuous,2.33,1,0,0,1,0,0,1,0,0,0,1,0,1,0,1,2,1,1
+363,47,lecture,"The professor lectures the class and they lecture him too, sometimes.",continuous,2.33,1,0,1,1,0,0,1,1,1,1,0,0,0,0,1,4,1,2
+364,47,lecture,The teacher and principal lectured together to educate students about safe sex.,continuous,2.33,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1,5,1,1
+365,47,lecture,He lectured me about getting too much sun so I lectured him about being annoying.,continuous,2.33,1,0,0,1,0,0,1,1,1,1,0,0,0,0,1,4,1,2
+366,47,lecture,The prom queen and debate champion lectured each other yesterday. ,continuous,2.33,1,0,0,1,0,0,1,0,0,0,1,0,1,0,1,2,1,1
+367,47,lecture,We lectured people to take advantage of their funds.,continuous,2.33,1,0,0,1,0,0,1,1,0,0,0,0,0,0,1,4,1,1
+368,47,lecture,Everyday me and that other teacher would lecture about the economy.,continuous,2.33,0,0,1,1,0,0,1,0,0,0,1,0,0,1,1,4,1,3
+369,47,lecture,"Lawyers lecture with their clients, not with the judge.",continuous,2.33,0,1,1,1,0,0,1,1,0,0,0,0,0,0,1,3,1,1
+370,47,lecture,Ray and Jill lectured each other about the consequences of the recession.,continuous,2.33,1,0,0,1,0,0,1,0,0,0,1,0,1,0,1,5,1,1
+371,48,hurry,"The president hurried the process of independence, or at least tried to.",continuous,3.17,1,0,0,1,0,0,1,1,1,1,0,0,0,0,0,3,1,1
+372,48,hurry,Deidre and I hurried as soon as we got the news.,continuous,3.17,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1,5,1,2
+373,48,hurry,"I won't hurry you into any decision, so take your time.",continuous,3.17,1,0,1,1,0,1,1,1,1,1,0,0,0,0,1,3,1,1
+374,48,hurry,The governor and I hurried together to help out.,continuous,3.17,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1,3,1,1
+375,48,hurry,She was hurrying me so I hurried her back.,continuous,3.17,1,0,1,1,0,0,1,1,1,1,0,0,0,0,1,4,1,2
+376,48,hurry,Sonya and I are hurrying each other right now so worry about the reminders.,continuous,3.17,1,0,1,1,0,0,1,0,0,0,1,0,1,0,1,4,1,1
+377,48,hurry,I should hurry Helen outside before she hears this.,continuous,3.17,1,0,1,1,0,0,1,1,1,1,0,0,0,0,1,4,1,2
+378,48,hurry,The personnel and the customers hurried out of the store when the alarm rang.,continuous,3.17,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1,3,1,1
+379,48,hurry,JJ did not hurry me because I was fast.,continuous,3.17,1,0,1,1,0,1,1,1,1,1,0,0,0,0,1,3,1,2
+380,48,hurry,Me and my deadlines hurried together but that doesn't make sense.,continuous,3.17,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,5,1,2
+381,49,applaud,The audience applauded me like the star I was.,continuous,2.83,1,0,0,1,0,0,1,1,1,1,0,0,0,0,0,4,0,2
+382,49,applaud,Mom and Dad applauded after my turn was over.,continuous,2.83,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1,3,1,2
+383,49,applaud,We can only applaud the move and look forward to hearing the results.,continuous,2.83,1,0,1,1,1,0,1,1,0,1,0,0,0,0,0,2,1,1
+384,49,applaud,You and I will applaud each other afterwards.,continuous,2.83,1,0,1,1,0,0,1,0,0,0,1,0,1,0,1,3,1,1
+385,49,applaud,Many people will applaud mothers for their dedication and nurturing nature.,continuous,2.83,1,0,1,1,0,0,1,1,0,0,0,0,0,0,1,3,1,1
+386,49,applaud,The girl and her ex-friend applauded each other sarcastically.,continuous,2.83,1,0,0,1,0,0,1,0,0,0,1,0,1,0,1,3,1,1
+387,49,applaud,I applauded my best friend and she applauded me too.,continuous,2.83,1,0,0,1,0,0,1,1,1,1,0,0,0,0,1,4,1,2
+388,49,applaud,The actress and fan applauded together and the former basked in the glory.,continuous,2.83,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1,5,1,2
+389,49,applaud,"I applaud the victim for her courage, and wish her well.",continuous,2.83,1,0,1,1,0,0,1,1,1,1,0,0,0,0,1,3,1,1
+390,49,applaud,The wolves applauded the newborn for its first hunt.,continuous,2.83,1,0,0,1,0,0,1,1,0,1,0,0,0,0,1,3,1,1
+391,50,know,I don't know the name of the place.,binary,0,1,0,1,0,0,1,1,1,1,1,0,0,0,0,0,3,1,1
+392,50,know,Gifford and I have known each other for the better half of a decade.,binary,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,5,1,1
+393,50,know,"Mariah doesn't know Jennifer, but she was just being sassy.",binary,0,1,0,1,0,0,1,1,1,1,1,0,0,0,0,1,4,1,3
+394,50,know,Mom and I just didn't know.,binary,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,1,2,1,1
+395,50,know,I know her and she seems to know me too.,binary,0,1,0,1,0,0,0,1,1,1,1,0,0,0,0,1,5,1,2
+396,50,know,French and Creole people knew each other but the Creoles didn't know them as much.,binary,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,4,1,2
+397,50,know,I knew your mother in high school and things were different between us. ,binary,0,1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,3,1,2
+398,50,know,The professor and I knew each other but she pretended not to know me.,binary,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,7,1,2
+399,50,know,She would know you if she saw you on the street. ,binary,0,1,0,1,0,0,0,1,1,1,1,0,0,0,0,1,6,1,2
+400,50,know,"Numerous people and even dogs can know, but not you.",binary,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,1,2,1,1
