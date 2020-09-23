@@ -1,6 +1,12 @@
 # Inferring Symmetry from Natural Language
 
 Computational framework for symmetry inference in natural language.
+If you make use of our SIS dataset or symmetry inference systems in your research, please cite our work as:
+```
+Tanchip, C., Yu, L., Xu, A., and Xu, Y. (2020) Inferring symmetry in natural language. Findings of EMNLP 2020.
+```
+
+
 
 ## Getting Started
 ### File Introductions
